@@ -1,0 +1,7 @@
+Utilizando gestor preferido para descargar librerias, necesitamos integrar:
+
+* pandas
+* opencv-python
+* opencv-contrib-python
+* scikit-learn
+* numpy
